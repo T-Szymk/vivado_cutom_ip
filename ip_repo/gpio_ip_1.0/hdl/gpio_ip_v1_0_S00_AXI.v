@@ -15,10 +15,10 @@
 	)
 	(
 		// Users to add ports here
-        inout wire gpio_0_inout,
-        inout wire gpio_1_inout,
-        inout wire gpio_2_inout,
-        inout wire gpio_3_inout,
+        inout tri logic gpio_0_inout,
+        inout tri logic gpio_1_inout,
+        inout tri logic gpio_2_inout,
+        inout tri logic gpio_3_inout,
 		// User ports ends
 		// Do not modify the ports beyond this line
 
